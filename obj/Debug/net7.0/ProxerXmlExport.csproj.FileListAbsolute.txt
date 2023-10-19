@@ -1,0 +1,15 @@
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\bin\Debug\net7.0\ProxerXmlExport.exe
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\bin\Debug\net7.0\ProxerXmlExport.deps.json
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\bin\Debug\net7.0\ProxerXmlExport.runtimeconfig.json
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\bin\Debug\net7.0\ProxerXmlExport.dll
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\bin\Debug\net7.0\ProxerXmlExport.pdb
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.csproj.AssemblyReference.cache
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.AssemblyInfoInputs.cache
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.AssemblyInfo.cs
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.dll
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\refint\ProxerXmlExport.dll
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.pdb
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ProxerXmlExport.genruntimeconfig.cache
+C:\Users\Timur\Downloads\Wichtig\Programming\Cs\ProxerXmlExport\obj\Debug\net7.0\ref\ProxerXmlExport.dll
